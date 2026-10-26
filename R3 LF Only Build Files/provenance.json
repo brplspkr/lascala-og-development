@@ -1,0 +1,126 @@
+{
+  "basis": "LF-only adaptation of the checked R2 original La Scala reference reconstruction",
+  "reference_R2": "../LaScala_OG_1977_R2.FCStd",
+  "layout_reference": "User photo s-l1600.jpg: LF bin with separate upper horn assembly resting above",
+  "source_page": "https://community.klipsch.com/topic/179112-la-scala-lf-build/",
+  "coordinate_system": "mm; X centered, Y=0 front, Y=622.3 rear. Original bin underside Z=0; removable cover Z=-19.05 to 0; closed deck top Z=603.25",
+  "nominal_complete_dimensions_mm": [
+    603.25,
+    622.3,
+    622.3
+  ],
+  "manufacturing_release": false,
+  "changes": [
+    "Removed upper cabinet, its top cap, upper motorboard and both upper horn references.",
+    "Shortened both outer sides to existing bass-shelf top.",
+    "Retained existing sealed LF top deck at its exact R2 position; no extra top sheet."
+  ],
+  "unchanged": "All fourteen retained LF panels, including floor/access cover, motorboard, angled doghouse, rear wings, splitter and shelf/back, are geometrically identical to R2. Generic woofer envelope also retained.",
+  "crossover_scope": "Passive crossover; exact original/upgrade selection awaits final driver/horn choice. DSP out of scope.",
+  "uncertainties": [
+    "R2 doghouse roof blank / bevel interpretation remains unverified.",
+    "R2 true 30-degree wing faces retained, including 5.656687 mm air-face endpoint offset.",
+    "R2 bottom thickness and centered underlay placement retained; exact gasket and screw locations not verified.",
+    "Woofer remains a generic clearance envelope. Separate upper horn, its support feet, fasteners, wiring and crossover enclosure are not modeled.",
+    "No load capacity or stability rating for a particular horn/stand is implied. Mounting can be detailed once actual horn/stand dimensions are supplied.",
+    "Nominal 3/4-inch material is modeled as 19.05 mm."
+  ],
+  "parts": [
+    {
+      "name": "LeftSide",
+      "label": "08L - Left LF-only side",
+      "evidence": "R3 LF-ONLY ADAPTATION",
+      "note": "R2 side shortened to 23-3/4 inches high, flush with original bass shelf. Depth and thickness unchanged."
+    },
+    {
+      "name": "RightSide",
+      "label": "08R - Right LF-only side",
+      "evidence": "R3 LF-ONLY ADAPTATION",
+      "note": "R2 side shortened to 23-3/4 inches high, flush with original bass shelf. Depth and thickness unchanged."
+    },
+    {
+      "name": "BassBack",
+      "label": "01 - Bass-bin back",
+      "evidence": "Dimensioned / derived from 1977 drawing",
+      "note": "Cut list 01: 22-1/4 wide x 23-3/4 high inches"
+    },
+    {
+      "name": "BassShelf",
+      "label": "06 - Closed flat LF top / horn support deck",
+      "evidence": "Dimensioned / derived from 1977 drawing",
+      "note": "Cut list 06: 22-1/4 x 23-3/4 inches"
+    },
+    {
+      "name": "AccessFrame",
+      "label": "07 - Bottom access frame",
+      "evidence": "Dimensioned / derived from 1977 drawing",
+      "note": "07 pentagonal access opening from dimensioned drawing; hatch mounting/rebate unresolved"
+    },
+    {
+      "name": "SpeakerBottom",
+      "label": "11 - Removable rectangular speaker bottom, 23 x 23-1/2",
+      "evidence": "UNCHANGED FROM R2 - underlay thickness and centered placement remain assumptions",
+      "note": "Cut list 11: separate 23 x 23-1/2 inch rectangular cover, screwed to woofer-door frame, not glued. R2-approved 3/4 inch underlaid cover retained, giving 24-1/2 inch complete LF-only height. Exact hole pattern, gasket and offsets unverified."
+    },
+    {
+      "name": "WooferMotorboard",
+      "label": "12 - Woofer motorboard / 3 x 13 throat",
+      "evidence": "Dimensioned / derived from 1977 drawing",
+      "note": "Cut list 12: 15-1/4 x 22-1/4, centered 3 x 13 inch slot"
+    },
+    {
+      "name": "DoghouseRight",
+      "label": "04R - Doghouse straight side",
+      "evidence": "Dimensioned / derived from 1977 drawing",
+      "note": "7-1/2 inch outside straight run, 3/4 stock; front miter derived"
+    },
+    {
+      "name": "NoseRight",
+      "label": "05R - Doghouse angled nose panel",
+      "evidence": "DERIVED - section fitted; bevel/blank requires checking",
+      "note": "Front tip, 16-3/4 outer width, motorboard and side positions from assembled section. Source lists 16-3/8 roof blank and 60-degree detail; those do not fully reconcile with section. Do not fabricate from R2."
+    },
+    {
+      "name": "DoghouseLeft",
+      "label": "04L - Doghouse straight side",
+      "evidence": "Dimensioned / derived from 1977 drawing",
+      "note": "7-1/2 inch outside straight run, 3/4 stock; front miter derived"
+    },
+    {
+      "name": "NoseLeft",
+      "label": "05L - Doghouse angled nose panel",
+      "evidence": "DERIVED - section fitted; bevel/blank requires checking",
+      "note": "Front tip, 16-3/4 outer width, motorboard and side positions from assembled section. Source lists 16-3/8 roof blank and 60-degree detail; those do not fully reconcile with section. Do not fabricate from R2."
+    },
+    {
+      "name": "UpperRightWing",
+      "label": "02 - Upper right throat flare wing",
+      "evidence": "TRUE 30 DEGREE FACE - source endpoint and exact blank/bevel still require verification",
+      "note": "Four wings retain the 3-inch rear plenum and slot-edge starts Z=136.525 / 466.725 mm. Face slope is exactly 30 degrees. At X=+/-193.675 mm, air face ends 5.656687 mm from the floor/shelf corner; stock is trimmed against those horizontal planes. No slot/cabinet dimensions moved. Wing blank and joint detail remain unverified."
+    },
+    {
+      "name": "LowerRightWing",
+      "label": "02 - Lower right throat flare wing",
+      "evidence": "TRUE 30 DEGREE FACE - source endpoint and exact blank/bevel still require verification",
+      "note": "Four wings retain the 3-inch rear plenum and slot-edge starts Z=136.525 / 466.725 mm. Face slope is exactly 30 degrees. At X=+/-193.675 mm, air face ends 5.656687 mm from the floor/shelf corner; stock is trimmed against those horizontal planes. No slot/cabinet dimensions moved. Wing blank and joint detail remain unverified."
+    },
+    {
+      "name": "UpperLeftWing",
+      "label": "02 - Upper left throat flare wing",
+      "evidence": "TRUE 30 DEGREE FACE - source endpoint and exact blank/bevel still require verification",
+      "note": "Four wings retain the 3-inch rear plenum and slot-edge starts Z=136.525 / 466.725 mm. Face slope is exactly 30 degrees. At X=+/-193.675 mm, air face ends 5.656687 mm from the floor/shelf corner; stock is trimmed against those horizontal planes. No slot/cabinet dimensions moved. Wing blank and joint detail remain unverified."
+    },
+    {
+      "name": "LowerLeftWing",
+      "label": "02 - Lower left throat flare wing",
+      "evidence": "TRUE 30 DEGREE FACE - source endpoint and exact blank/bevel still require verification",
+      "note": "Four wings retain the 3-inch rear plenum and slot-edge starts Z=136.525 / 466.725 mm. Face slope is exactly 30 degrees. At X=+/-193.675 mm, air face ends 5.656687 mm from the floor/shelf corner; stock is trimmed against those horizontal planes. No slot/cabinet dimensions moved. Wing blank and joint detail remain unverified."
+    },
+    {
+      "name": "RearSplitter",
+      "label": "03 - Rear vertical splitter",
+      "evidence": "Dimensioned / derived from 1977 drawing",
+      "note": "13 high; 2-1/4 wide; approximately 1-1/8 projection from source 90-degree splitter sketch"
+    }
+  ]
+}

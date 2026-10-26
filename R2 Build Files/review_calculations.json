@@ -1,0 +1,18 @@
+{
+  "old_wing_angle_deg": 31.23921488820876,
+  "new_angle_deg": 30.0,
+  "slot_lower_z_mm": 136.52499999999995,
+  "slot_upper_z_mm": 466.7249999999999,
+  "lower_face_outer_z_mm": 24.706686614699223,
+  "upper_face_outer_z_mm": 578.5433133853006,
+  "face_endpoint_offset_from_corner_mm": 5.656686614699268,
+  "midrange_cutout_width_mm": 411.16249999999997,
+  "midrange_cutout_height_mm": 142.875,
+  "midrange_center_z_mm": 715.16875,
+  "bottom_blank_mm": [
+    584.1999999999999,
+    596.9
+  ],
+  "bottom_thickness_assumption_mm": 19.049999999999997,
+  "external_overlay_full_height_mm": 914.4
+}

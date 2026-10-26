@@ -1,0 +1,83 @@
+{
+  "R2_LF_parts_unchanged": [
+    {
+      "part": "BassBack",
+      "symmetric_difference_mm3": 0.0
+    },
+    {
+      "part": "BassShelf",
+      "symmetric_difference_mm3": 0.0
+    },
+    {
+      "part": "AccessFrame",
+      "symmetric_difference_mm3": 0.0
+    },
+    {
+      "part": "SpeakerBottom",
+      "symmetric_difference_mm3": 0.0
+    },
+    {
+      "part": "WooferMotorboard",
+      "symmetric_difference_mm3": 0.0
+    },
+    {
+      "part": "DoghouseRight",
+      "symmetric_difference_mm3": 0.0
+    },
+    {
+      "part": "DoghouseLeft",
+      "symmetric_difference_mm3": 0.0
+    },
+    {
+      "part": "NoseRight",
+      "symmetric_difference_mm3": 0.0
+    },
+    {
+      "part": "NoseLeft",
+      "symmetric_difference_mm3": 0.0
+    },
+    {
+      "part": "RearSplitter",
+      "symmetric_difference_mm3": 0.0
+    },
+    {
+      "part": "UpperRightWing",
+      "symmetric_difference_mm3": 0.0
+    },
+    {
+      "part": "LowerRightWing",
+      "symmetric_difference_mm3": 0.0
+    },
+    {
+      "part": "UpperLeftWing",
+      "symmetric_difference_mm3": 0.0
+    },
+    {
+      "part": "LowerLeftWing",
+      "symmetric_difference_mm3": 0.0
+    }
+  ],
+  "shortened_sides": "Exact R2 side solids clipped at Z=603.25 mm",
+  "removed": [
+    "original upper cabinet top",
+    "upper motorboard",
+    "midrange reference",
+    "tweeter reference"
+  ],
+  "retained_closed_top": "Original bass-bin shelf plus flush side/rear edges; no added top layer and no change in LF chamber height",
+  "wing_face_angle_deg": 29.999999999999996,
+  "slot_edges_z_mm": [
+    136.52499999999995,
+    466.7249999999999
+  ],
+  "wing_face_corner_offset_mm": 5.656686614699268,
+  "bottom_blank_mm": [
+    584.1999999999999,
+    596.9,
+    19.049999999999997
+  ],
+  "shell_height_mm": 603.25,
+  "complete_height_mm": 622.3,
+  "crossover_scope": "Passive: original or compatible upgraded network, selected against final drivers",
+  "horn_support": "A separate freestanding upper horn assembly may sit on the flat closed LF deck. No unknown horn dimensions, brackets or mounting holes invented."
+}

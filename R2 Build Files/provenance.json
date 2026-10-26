@@ -1,0 +1,130 @@
+{
+  "basis": "1977 Factory LaScala Dimensions, two-page scan posted in Klipsch community; community copy, authenticity not independently certified",
+  "source_page": "https://community.klipsch.com/topic/179112-la-scala-lf-build/",
+  "reference_images": [
+    "../References/1977-LaScala-assembly.jpg",
+    "../References/1977-LaScala-cut-list.jpg"
+  ],
+  "manufacturer_brochure": "../References/original-klipsch-brochure.pdf",
+  "height_choice": "Protected original cabinet remains 35-1/4 inches. User approved a separate 3/4-inch underlaid bottom, giving 36 inches complete height. This is an explicit R2 assembly interpretation, not a resolved factory overall-height dimension.",
+  "coordinate_system": "mm; X centered, front Y=0, rear Y=622.3, original cabinet underside Z=0; removable cover spans Z=-19.05 to 0",
+  "manufacturing_release": false,
+  "uncertainties": [
+    "Doghouse roof blank length/bevel notes do not fully reconcile with assembled section dimensions. R2 uses section geometry with continuous constant-thickness walls and fitted miters.",
+    "Rear wing faces now true 30 degrees, with original slot-edge starts unchanged. Air-face endpoints are 5.656687 mm short of floor/shelf corners at the motorboard side edge. Whether the factory wing stopped there or had a shifted start cannot be resolved from this scan.",
+    "Factory panel 11 is now the specified 23 x 23-1/2 inch rectangular underlay. User approved 3/4-inch thickness and 36-inch complete height. Source does not dimension thickness or exact XY offsets; R2 centers it under the cabinet. Gasket and screw details are not invented.",
+    "Midrange opening verified from drawing as 16-3/16 x 5-5/8 inches; no widening. Tweeter vertical offset remains interpreted from scan. Exact fastener holes, rebates, gaskets and joinery are not modeled.",
+    "All driver and horn shapes are approximate reference envelopes; lofts are not validated acoustic contours. No crossover, wiring or fasteners modeled.",
+    "Nominal 3/4-inch plywood modeled as 19.05 mm; measure actual stock before production."
+  ],
+  "parts": [
+    {
+      "name": "LeftSide",
+      "label": "08L - Left full-height side",
+      "evidence": "Dimensioned / derived from 1977 drawing",
+      "note": "Cut list 08: 24-1/2 x 34-1/2 inches"
+    },
+    {
+      "name": "RightSide",
+      "label": "08R - Right full-height side",
+      "evidence": "Dimensioned / derived from 1977 drawing",
+      "note": "Cut list 08: 24-1/2 x 34-1/2 inches"
+    },
+    {
+      "name": "Top",
+      "label": "10 - Cabinet top",
+      "evidence": "Dimensioned / derived from 1977 drawing",
+      "note": "Cut list 10: 23-3/4 x 24-1/2 inches"
+    },
+    {
+      "name": "BassBack",
+      "label": "01 - Bass-bin back",
+      "evidence": "Dimensioned / derived from 1977 drawing",
+      "note": "Cut list 01: 22-1/4 wide x 23-3/4 high inches"
+    },
+    {
+      "name": "BassShelf",
+      "label": "06 - Bass-bin top / upper shelf",
+      "evidence": "Dimensioned / derived from 1977 drawing",
+      "note": "Cut list 06: 22-1/4 x 23-3/4 inches"
+    },
+    {
+      "name": "AccessFrame",
+      "label": "07 - Bottom access frame",
+      "evidence": "Dimensioned / derived from 1977 drawing",
+      "note": "07 pentagonal access opening from dimensioned drawing; hatch mounting/rebate unresolved"
+    },
+    {
+      "name": "SpeakerBottom",
+      "label": "11 - Removable rectangular speaker bottom, 23 x 23-1/2",
+      "evidence": "DIMENSIONED BLANK - underlay thickness and centered placement are R2 assumptions",
+      "note": "Cut list 11: separate 23 x 23-1/2 inch rectangular cover, screwed to woofer-door frame, not glued. User approved 3/4 inch thickness below existing cabinet and 36 inch complete height. Exact hole pattern, gasket and offsets unverified."
+    },
+    {
+      "name": "WooferMotorboard",
+      "label": "12 - Woofer motorboard / 3 x 13 throat",
+      "evidence": "Dimensioned / derived from 1977 drawing",
+      "note": "Cut list 12: 15-1/4 x 22-1/4, centered 3 x 13 inch slot"
+    },
+    {
+      "name": "DoghouseRight",
+      "label": "04R - Doghouse straight side",
+      "evidence": "Dimensioned / derived from 1977 drawing",
+      "note": "7-1/2 inch outside straight run, 3/4 stock; front miter derived"
+    },
+    {
+      "name": "NoseRight",
+      "label": "05R - Doghouse angled nose panel",
+      "evidence": "DERIVED - section fitted; bevel/blank requires checking",
+      "note": "Front tip, 16-3/4 outer width, motorboard and side positions from assembled section. Source lists 16-3/8 roof blank and 60-degree detail; those do not fully reconcile with section. Do not fabricate from R2."
+    },
+    {
+      "name": "DoghouseLeft",
+      "label": "04L - Doghouse straight side",
+      "evidence": "Dimensioned / derived from 1977 drawing",
+      "note": "7-1/2 inch outside straight run, 3/4 stock; front miter derived"
+    },
+    {
+      "name": "NoseLeft",
+      "label": "05L - Doghouse angled nose panel",
+      "evidence": "DERIVED - section fitted; bevel/blank requires checking",
+      "note": "Front tip, 16-3/4 outer width, motorboard and side positions from assembled section. Source lists 16-3/8 roof blank and 60-degree detail; those do not fully reconcile with section. Do not fabricate from R2."
+    },
+    {
+      "name": "UpperRightWing",
+      "label": "02 - Upper right throat flare wing",
+      "evidence": "TRUE 30 DEGREE FACE - source endpoint and exact blank/bevel still require verification",
+      "note": "Four wings retain the 3-inch rear plenum and slot-edge starts Z=136.525 / 466.725 mm. Face slope is exactly 30 degrees. At X=+/-193.675 mm, air face ends 5.656687 mm from the floor/shelf corner; stock is trimmed against those horizontal planes. No slot/cabinet dimensions moved. Wing blank and joint detail remain unverified."
+    },
+    {
+      "name": "LowerRightWing",
+      "label": "02 - Lower right throat flare wing",
+      "evidence": "TRUE 30 DEGREE FACE - source endpoint and exact blank/bevel still require verification",
+      "note": "Four wings retain the 3-inch rear plenum and slot-edge starts Z=136.525 / 466.725 mm. Face slope is exactly 30 degrees. At X=+/-193.675 mm, air face ends 5.656687 mm from the floor/shelf corner; stock is trimmed against those horizontal planes. No slot/cabinet dimensions moved. Wing blank and joint detail remain unverified."
+    },
+    {
+      "name": "UpperLeftWing",
+      "label": "02 - Upper left throat flare wing",
+      "evidence": "TRUE 30 DEGREE FACE - source endpoint and exact blank/bevel still require verification",
+      "note": "Four wings retain the 3-inch rear plenum and slot-edge starts Z=136.525 / 466.725 mm. Face slope is exactly 30 degrees. At X=+/-193.675 mm, air face ends 5.656687 mm from the floor/shelf corner; stock is trimmed against those horizontal planes. No slot/cabinet dimensions moved. Wing blank and joint detail remain unverified."
+    },
+    {
+      "name": "LowerLeftWing",
+      "label": "02 - Lower left throat flare wing",
+      "evidence": "TRUE 30 DEGREE FACE - source endpoint and exact blank/bevel still require verification",
+      "note": "Four wings retain the 3-inch rear plenum and slot-edge starts Z=136.525 / 466.725 mm. Face slope is exactly 30 degrees. At X=+/-193.675 mm, air face ends 5.656687 mm from the floor/shelf corner; stock is trimmed against those horizontal planes. No slot/cabinet dimensions moved. Wing blank and joint detail remain unverified."
+    },
+    {
+      "name": "RearSplitter",
+      "label": "03 - Rear vertical splitter",
+      "evidence": "Dimensioned / derived from 1977 drawing",
+      "note": "13 high; 2-1/4 wide; approximately 1-1/8 projection from source 90-degree splitter sketch"
+    },
+    {
+      "name": "UpperMotorboard",
+      "label": "09 - Upper motorboard, midrange and tweeter cutouts",
+      "evidence": "Dimensioned / derived from 1977 drawing",
+      "note": "22-1/4 x 10-3/4 inch board. Mid opening 16-3/16 x 5-5/8; tweeter 4-5/32 x 9/16. Interpreted small tweeter vertical dimension; verify against hardware."
+    }
+  ]
+}

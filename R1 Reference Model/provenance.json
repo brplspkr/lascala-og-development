@@ -1,0 +1,130 @@
+{
+  "basis": "1977 Factory LaScala Dimensions, two-page scan posted in Klipsch community; community copy, authenticity not independently certified",
+  "source_page": "https://community.klipsch.com/topic/179112-la-scala-lf-build/",
+  "reference_images": [
+    "../References/1977-LaScala-assembly.jpg",
+    "../References/1977-LaScala-cut-list.jpg"
+  ],
+  "manufacturer_brochure": "../References/original-klipsch-brochure.pdf",
+  "height_choice": "1977 drawing 35-1/4 in used consistently; later brochure 35-1/2 in is not silently mixed into geometry",
+  "coordinate_system": "mm; X centered across width, Y increases from front to rear, Z up; floor at Z=0",
+  "manufacturing_release": false,
+  "uncertainties": [
+    "Doghouse roof blank length/bevel notes do not fully reconcile with assembled section dimensions. R1 uses section geometry with continuous constant-thickness walls and fitted miters.",
+    "Four rear wing air-contact surfaces derived from 3-inch rear plenum and 13 to 22-1/4 inch expansion. Source wing blank / bevel geometry requires confirmation.",
+    "Factory bottom panel 11 overlay/rebate arrangement unresolved. R1 includes an explicitly provisional flush pentagonal plug so the model is closed.",
+    "Tweeter vertical offset read from low-resolution drawing; exact fastener holes, rebates, gaskets and joinery not modeled.",
+    "All driver and horn shapes are approximate reference envelopes; lofts are not validated acoustic contours. No crossover, wiring or fasteners modeled.",
+    "Nominal 3/4-inch plywood modeled as 19.05 mm; measure actual stock before production."
+  ],
+  "parts": [
+    {
+      "name": "LeftSide",
+      "label": "08L - Left full-height side",
+      "evidence": "Dimensioned / derived from 1977 drawing",
+      "note": "Cut list 08: 24-1/2 x 34-1/2 inches"
+    },
+    {
+      "name": "RightSide",
+      "label": "08R - Right full-height side",
+      "evidence": "Dimensioned / derived from 1977 drawing",
+      "note": "Cut list 08: 24-1/2 x 34-1/2 inches"
+    },
+    {
+      "name": "Top",
+      "label": "10 - Cabinet top",
+      "evidence": "Dimensioned / derived from 1977 drawing",
+      "note": "Cut list 10: 23-3/4 x 24-1/2 inches"
+    },
+    {
+      "name": "BassBack",
+      "label": "01 - Bass-bin back",
+      "evidence": "Dimensioned / derived from 1977 drawing",
+      "note": "Cut list 01: 22-1/4 wide x 23-3/4 high inches"
+    },
+    {
+      "name": "BassShelf",
+      "label": "06 - Bass-bin top / upper shelf",
+      "evidence": "Dimensioned / derived from 1977 drawing",
+      "note": "Cut list 06: 22-1/4 x 23-3/4 inches"
+    },
+    {
+      "name": "AccessFrame",
+      "label": "07 - Bottom access frame",
+      "evidence": "Dimensioned / derived from 1977 drawing",
+      "note": "07 pentagonal access opening from dimensioned drawing; hatch mounting/rebate unresolved"
+    },
+    {
+      "name": "AccessClosure",
+      "label": "R1 - Provisional flush access closure",
+      "evidence": "PROVISIONAL - closure for reference model only",
+      "note": "Factory part 11 is listed as 23 x 23-1/2 inches; its overlay/rebate arrangement is not resolved. This fitted plug is NOT that factory part."
+    },
+    {
+      "name": "WooferMotorboard",
+      "label": "12 - Woofer motorboard / 3 x 13 throat",
+      "evidence": "Dimensioned / derived from 1977 drawing",
+      "note": "Cut list 12: 15-1/4 x 22-1/4, centered 3 x 13 inch slot"
+    },
+    {
+      "name": "DoghouseRight",
+      "label": "04R - Doghouse straight side",
+      "evidence": "Dimensioned / derived from 1977 drawing",
+      "note": "7-1/2 inch outside straight run, 3/4 stock; front miter derived"
+    },
+    {
+      "name": "NoseRight",
+      "label": "05R - Doghouse angled nose panel",
+      "evidence": "DERIVED - section fitted; bevel/blank requires checking",
+      "note": "Front tip, 16-3/4 outer width, motorboard and side positions from assembled section. Source lists 16-3/8 roof blank and 60-degree detail; those do not fully reconcile with section. Do not fabricate from R1."
+    },
+    {
+      "name": "DoghouseLeft",
+      "label": "04L - Doghouse straight side",
+      "evidence": "Dimensioned / derived from 1977 drawing",
+      "note": "7-1/2 inch outside straight run, 3/4 stock; front miter derived"
+    },
+    {
+      "name": "NoseLeft",
+      "label": "05L - Doghouse angled nose panel",
+      "evidence": "DERIVED - section fitted; bevel/blank requires checking",
+      "note": "Front tip, 16-3/4 outer width, motorboard and side positions from assembled section. Source lists 16-3/8 roof blank and 60-degree detail; those do not fully reconcile with section. Do not fabricate from R1."
+    },
+    {
+      "name": "UpperRightWing",
+      "label": "02 - Upper right throat flare wing",
+      "evidence": "DERIVED - air-contact profile; blank/bevel requires checking",
+      "note": "Four wings across 3-inch rear plenum; 13 to 22-1/4 inch vertical expansion. Cut list wing blank 9-1/8 x 3; source bevel notes 30 / 60 degrees. R1 uses fitted section surfaces."
+    },
+    {
+      "name": "LowerRightWing",
+      "label": "02 - Lower right throat flare wing",
+      "evidence": "DERIVED - air-contact profile; blank/bevel requires checking",
+      "note": "Four wings across 3-inch rear plenum; 13 to 22-1/4 inch vertical expansion. Cut list wing blank 9-1/8 x 3; source bevel notes 30 / 60 degrees. R1 uses fitted section surfaces."
+    },
+    {
+      "name": "UpperLeftWing",
+      "label": "02 - Upper left throat flare wing",
+      "evidence": "DERIVED - air-contact profile; blank/bevel requires checking",
+      "note": "Four wings across 3-inch rear plenum; 13 to 22-1/4 inch vertical expansion. Cut list wing blank 9-1/8 x 3; source bevel notes 30 / 60 degrees. R1 uses fitted section surfaces."
+    },
+    {
+      "name": "LowerLeftWing",
+      "label": "02 - Lower left throat flare wing",
+      "evidence": "DERIVED - air-contact profile; blank/bevel requires checking",
+      "note": "Four wings across 3-inch rear plenum; 13 to 22-1/4 inch vertical expansion. Cut list wing blank 9-1/8 x 3; source bevel notes 30 / 60 degrees. R1 uses fitted section surfaces."
+    },
+    {
+      "name": "RearSplitter",
+      "label": "03 - Rear vertical splitter",
+      "evidence": "Dimensioned / derived from 1977 drawing",
+      "note": "13 high; 2-1/4 wide; approximately 1-1/8 projection from source 90-degree splitter sketch"
+    },
+    {
+      "name": "UpperMotorboard",
+      "label": "09 - Upper motorboard, midrange and tweeter cutouts",
+      "evidence": "Dimensioned / derived from 1977 drawing",
+      "note": "22-1/4 x 10-3/4 inch board. Mid opening 16-3/16 x 5-5/8; tweeter 4-5/32 x 9/16. Interpreted small tweeter vertical dimension; verify against hardware."
+    }
+  ]
+}

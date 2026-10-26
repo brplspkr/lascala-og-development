@@ -1,0 +1,85 @@
+{
+  "protected_parts_unchanged": [
+    {
+      "part": "LeftSide",
+      "symmetric_difference_mm3": 0.0
+    },
+    {
+      "part": "RightSide",
+      "symmetric_difference_mm3": 0.0
+    },
+    {
+      "part": "Top",
+      "symmetric_difference_mm3": 0.0
+    },
+    {
+      "part": "BassBack",
+      "symmetric_difference_mm3": 0.0
+    },
+    {
+      "part": "BassShelf",
+      "symmetric_difference_mm3": 0.0
+    },
+    {
+      "part": "AccessFrame",
+      "symmetric_difference_mm3": 0.0
+    },
+    {
+      "part": "WooferMotorboard",
+      "symmetric_difference_mm3": 0.0
+    },
+    {
+      "part": "DoghouseRight",
+      "symmetric_difference_mm3": 0.0
+    },
+    {
+      "part": "DoghouseLeft",
+      "symmetric_difference_mm3": 0.0
+    },
+    {
+      "part": "NoseRight",
+      "symmetric_difference_mm3": 0.0
+    },
+    {
+      "part": "NoseLeft",
+      "symmetric_difference_mm3": 0.0
+    },
+    {
+      "part": "RearSplitter",
+      "symmetric_difference_mm3": 0.0
+    },
+    {
+      "part": "UpperMotorboard",
+      "symmetric_difference_mm3": 0.0
+    }
+  ],
+  "wing_face_angle_deg": 29.999999999999996,
+  "slot_edges_z_mm": [
+    136.52499999999995,
+    466.7249999999999
+  ],
+  "wing_face_corner_offset_mm": 5.656686614699268,
+  "mid_cutout_mm": [
+    411.16249999999997,
+    142.875
+  ],
+  "mid_center_z_mm": 715.16875,
+  "bottom_blank_mm": [
+    584.1999999999999,
+    596.9,
+    19.049999999999997
+  ],
+  "bottom_xy_placement": "centered under complete original cabinet: R2 assumption",
+  "core_height_mm": 895.3499999999999,
+  "complete_height_mm": 914.3999999999999,
+  "height_change_authorized": true,
+  "DSP_status": "OUT OF SCOPE - user specified original or upgraded passive crossover, exact network pending final drivers.",
+  "crossover_scope": {
+    "type": "passive",
+    "options": [
+      "original La Scala network",
+      "compatible upgraded passive network"
+    ],
+    "selection": "pending final driver/horn selection"
+  }
+}

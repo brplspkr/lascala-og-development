@@ -1,0 +1,31 @@
+KLIPSCH LA SCALA OG - DEVELOPMENT
+
+CURRENT STACK: R2 — LA SCALA LF R3 ON DEEPER SS-18
+
+Stack STEP: LaScala_LF_R3_SS18_Deep_Stack_R2_Full_Assembly.step
+Native assembly: LaScala_LF_R3_SS18_Deep_Stack_R2.FCStd
+Renders: LaScala_LF_R3_SS18_Deep_Stack_R2_assembled.png and _front.png
+Notes: LaScala_LF_R3_SS18_Deep_Stack_R2_Notes.txt
+
+La Scala unchanged. SS-18 enlarged to 609.6 W x 622.3 D mm using a 25.4 mm solid rear build-out, preserving original chamber and port geometry. No overhang. Overall stack: 609.6 W x 622.3 D x 1413.95 H mm, excluding upper horns and hardware.
+Standalone deeper sub STEP, native model and rear render saved at the TOP LEVEL of SS-18 - Development.
+SS18 Stack R2 Build Files contains reproducible build/render scripts and verification.
+
+CURRENT LF-ONLY VERSION: R3
+
+New LF-only cabinet for separate freestanding upper horns, following the supplied reference photo. The current native model, cabinet-only STEP, full LF assembly STEP, notes and assembled/cutaway renders are at the TOP LEVEL.
+
+Primary LF assembly: LaScala_OG_LF_Only_R3_Full_Assembly.step
+Editable LF model: LaScala_OG_LF_Only_R3.FCStd
+Notes: LaScala_OG_LF_Only_R3_Notes.txt
+
+LF size including removable bottom: 603.25 W x 622.30 D x 622.30 H mm (23-3/4 x 24-1/2 x 24-1/2 inches).
+
+Closed LF top retained at its exact R2 position. Upper cabinet and its midrange/tweeter supports removed. Fourteen retained LF panels are geometrically unchanged from R2; only outer sides were shortened. External horn/stand is not included or dimensioned.
+
+COMPLETE-CABINET VERSION: R2 remains at the top level as a separate option.
+R1 Reference Model preserves the initial version.
+R2 Build Files and R3 LF Only Build Files contain reproducible scripts and validation.
+References contains the recovered drawings, original brochure and user photo.
+
+Both versions retain reference-model uncertainties identified in their notes. Passive crossover: original network or compatible upgrade, final selection to match actual drivers/horns. DSP is out of scope.

@@ -1,0 +1,44 @@
+LA SCALA OG - LF-ONLY R3
+
+LF-only version for a separate freestanding midrange/tweeter assembly on top, following the layout in the user's s-l1600.jpg photo.
+
+OVERALL SIZE, INCLUDING REMOVABLE BOTTOM
+603.25 W x 622.30 D x 622.30 H mm
+23-3/4 W x 24-1/2 D x 24-1/2 H inches
+Nominal stock: 19.05 mm (3/4 inch)
+LF shell / closed deck height: 603.25 mm above original cabinet underside.
+R2 removable bottom cover: Z=-19.05 to 0 mm.
+
+CHANGES FROM R2
+- Removed the upper cabinet motorboard and original upper top cap.
+- Removed the midrange and tweeter reference objects.
+- Shortened both outer side panels flush with the existing bass-bin shelf/deck.
+- Kept the LF section closed at the top. No additional sheet was added, and the internal bass chamber height was not changed.
+
+PRESERVED FROM R2
+Fourteen bass-section panels are geometrically identical to R2: the shelf/deck, rear, woofer access frame, separate rectangular access cover, motorboard, both straight doghouse sides, both angled nose panels, rear splitter and all four 30-degree wing halves.
+Generic woofer clearance envelope retained.
+Passive crossover scope retained: original network or compatible upgrade, final choice to match the actual drivers and horns. DSP is out of scope.
+The complete R2 cabinet remains available as a separate version.
+
+DELIVERABLES
+LaScala_OG_LF_Only_R3.FCStd - editable native model, 16 cabinet bodies and one generic woofer reference.
+LaScala_OG_LF_Only_R3_Cabinet.step - complete LF wood-panel assembly, 16 valid solid parts.
+LaScala_OG_LF_Only_R3_Full_Assembly.step - all LF panels plus generic woofer reference, 17 valid solids.
+LaScala_OG_LF_Only_R3_assembled.png - assembled preview.
+LaScala_OG_LF_Only_R3_cutaway.png - right side and top deck hidden for inspection.
+
+VALIDATION
+No positive-volume overlaps between cabinet panels.
+Both STEP exports were reimported successfully at the correct dimensions.
+Native model was reopened successfully.
+The shorter side panels match the original R2 sides clipped at the existing deck top.
+All four wing faces remain 30 degrees, and the 3 x 13 inch throat is unchanged.
+The shelf/deck, rear and side top edges all finish at one flat top plane.
+
+REFERENCE-MODEL LIMITS
+The R2 wing endpoint discrepancy, doghouse bevel interpretation and access-cover placement assumptions carry forward unchanged; this revision does not resolve them.
+No particular external horn, support feet, brackets, fastening holes or crossover enclosure has been designed. These can be detailed once actual horn/stand dimensions are selected.
+No castors or new plinth were copied from the photo.
+The woofer is a generic clearance envelope, not a manufacturing model.
+Fasteners, gasket and production tolerances still require verification before cutting.

@@ -1,0 +1,141 @@
+{
+  "units": "mm",
+  "version": "R1 reference reconstruction",
+  "cabinet_parts": 18,
+  "reference_parts": 3,
+  "bounds_mm": [
+    603.2500000000009,
+    622.3000000000006,
+    895.3500000000004
+  ],
+  "solids": [
+    {
+      "part": "LeftSide",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 10388374.384500004
+    },
+    {
+      "part": "RightSide",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 10388374.384500004
+    },
+    {
+      "part": "Top",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 7151417.148749993
+    },
+    {
+      "part": "BassBack",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 6494654.349374995
+    },
+    {
+      "part": "BassShelf",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 6494654.349374995
+    },
+    {
+      "part": "AccessFrame",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 4739542.184203125
+    },
+    {
+      "part": "AccessClosure",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 1744597.2881903294
+    },
+    {
+      "part": "WooferMotorboard",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 3690930.118124994
+    },
+    {
+      "part": "DoghouseRight",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 2021251.6913861698
+    },
+    {
+      "part": "NoseRight",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 4094519.4637218607
+    },
+    {
+      "part": "DoghouseLeft",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 2021251.6913861698
+    },
+    {
+      "part": "NoseLeft",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 4094519.4637218644
+    },
+    {
+      "part": "UpperRightWing",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 297633.9216760611
+    },
+    {
+      "part": "LowerRightWing",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 297633.9216760609
+    },
+    {
+      "part": "UpperLeftWing",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 297633.9216760611
+    },
+    {
+      "part": "LowerLeftWing",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 297633.9216760609
+    },
+    {
+      "part": "RearSplitter",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 269618.4123750004
+    },
+    {
+      "part": "UpperMotorboard",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 1791863.0367304683
+    },
+    {
+      "part": "MidHornReference",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 1270240.6567823016
+    },
+    {
+      "part": "TweeterHornReference",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 35842.514899926566
+    },
+    {
+      "part": "WooferReference",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 6613429.526924946
+    }
+  ],
+  "positive_volume_panel_overlaps": [],
+  "manufacturing_release": false
+}

@@ -1,0 +1,41 @@
+LA SCALA OG 1977 - R2 REVIEW RESPONSE
+
+R2 is a reference reconstruction, not a verified manufacturing release.
+
+1. FOUR REAR WING HALVES
+Changed the air-contact face slope from 31.2392149 degrees to exactly 30 degrees.
+Throat-edge starts remain Z=136.525 / 466.725 mm. Motorboard side edges remain X=+/-193.675 mm.
+At those side edges, lower/upper face endpoints are Z=24.7066866 / 578.5433134 mm. Each is 5.6566866 mm from its original floor/shelf corner.
+The stock faces are trimmed against the existing horizontal floor/shelf, so the far ends have a finite edge rather than an invented extension or moved throat. The air-face endpoint does not land at the corner.
+The source's 30-degree miter note is honored in the face slope for this revision, but the low-resolution source does not independently settle the original wing endpoint or all saw-bevel details. These remain to verify before manufacture.
+
+2. MIDRANGE CUTOUT
+Drawing image checked directly: width is 16-3/16 inches, not 16-3/8.
+Retained 411.1625 mm width x 142.875 mm height, centered at Z=715.16875 mm.
+The 16-3/8 dimension elsewhere on the sheet labels doghouse roof panel #5, not the midrange cutout.
+The upper motorboard is geometrically identical to R1.
+
+3. SEPARATE SPEAKER BOTTOM #11
+Removed the provisional six-sided flush plug.
+Added a separate rectangular 23 x 23-1/2 x 3/4 inch panel beneath the existing woofer-door frame, at Z=-19.05 to 0 mm.
+User explicitly approved 36-inch complete height with this underlaid cover.
+Existing main cabinet remains 23-3/4 W x 24-1/2 D x 35-1/4 H inches.
+Complete R2 including cover is 603.25 W x 622.3 D x 914.4 H mm (36 inches H).
+The cover is centered under the complete cabinet footprint. Its exact fore/aft offset, screw pattern, gasket profile and factory thickness are not dimensioned on this scan. Centering is an explicit R2 assumption; thickness and increased height are user-approved choices, not a claim about factory construction.
+The source calls for a screwed, unglued cover and weatherstrip roughly 1 inch out from the opening. Fasteners and gasket are not modeled as verified details.
+
+UNCHANGED / CHECKED
+13 protected solid parts are geometrically identical to R1 by symmetric-difference volume, including both sides, top, back, shelf, woofer-door frame, woofer motorboard, both straight doghouse sides, both angled nose panels, splitter and upper motorboard.
+No positive-volume cabinet panel intersections were found.
+Cabinet-only STEP reimported as 18 valid solids; full assembly reimported as 21 valid solids.
+Native file reopened and the four wing sketch face slopes were independently measured at 30 degrees.
+
+CROSSOVER SCOPE - USER CLARIFICATION
+This project will use a passive crossover: either an original La Scala network or a compatible upgraded passive network.
+The exact crossover design is not selected yet and must match the final woofer, midrange driver/horn and tweeter.
+DSP and per-band DSP delay settings are outside this project's intended configuration. The geometric delay estimates in the external review are not design targets or pending setup work.
+No cabinet geometry was changed for this clarification.
+
+SOURCES
+1977 Factory LaScala Dimensions scans 1 and 2, community copies saved in References.
+https://community.klipsch.com/topic/179112-la-scala-lf-build/

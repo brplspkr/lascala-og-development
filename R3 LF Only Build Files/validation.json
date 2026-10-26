@@ -1,0 +1,117 @@
+{
+  "units": "mm",
+  "version": "R3 LF-only - separate horn on top",
+  "cabinet_parts": 16,
+  "reference_parts": 1,
+  "bounds_mm": [
+    603.2500000000008,
+    622.3000000000006,
+    622.3000000000004
+  ],
+  "solids": [
+    {
+      "part": "LeftSide",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 7151417.1487500025
+    },
+    {
+      "part": "RightSide",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 7151417.148750003
+    },
+    {
+      "part": "BassBack",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 6494654.349374995
+    },
+    {
+      "part": "BassShelf",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 6494654.349374995
+    },
+    {
+      "part": "AccessFrame",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 4739542.184203125
+    },
+    {
+      "part": "SpeakerBottom",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 6642906.068999996
+    },
+    {
+      "part": "WooferMotorboard",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 3690930.118124994
+    },
+    {
+      "part": "DoghouseRight",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 2021251.6913861698
+    },
+    {
+      "part": "NoseRight",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 4094519.4637218607
+    },
+    {
+      "part": "DoghouseLeft",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 2021251.6913861698
+    },
+    {
+      "part": "NoseLeft",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 4094519.4637218644
+    },
+    {
+      "part": "UpperRightWing",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 307013.04744620086
+    },
+    {
+      "part": "LowerRightWing",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 307013.04744620045
+    },
+    {
+      "part": "UpperLeftWing",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 307013.04744620086
+    },
+    {
+      "part": "LowerLeftWing",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 307013.04744620045
+    },
+    {
+      "part": "RearSplitter",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 269618.4123750004
+    },
+    {
+      "part": "WooferReference",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 6613429.526924946
+    }
+  ],
+  "positive_volume_panel_overlaps": [],
+  "manufacturing_release": false
+}

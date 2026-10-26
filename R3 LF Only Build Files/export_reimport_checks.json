@@ -1,0 +1,29 @@
+[
+  {
+    "file": "LaScala_OG_LF_Only_R3_Cabinet.step",
+    "valid": true,
+    "solid_count": 16,
+    "bounds_mm": [
+      603.2500000000008,
+      622.3000000001072,
+      622.3000000000004
+    ]
+  },
+  {
+    "file": "LaScala_OG_LF_Only_R3_Full_Assembly.step",
+    "valid": true,
+    "solid_count": 17,
+    "bounds_mm": [
+      603.2500000000008,
+      622.3000000001072,
+      622.3000000000004
+    ]
+  },
+  {
+    "native_reopened": true,
+    "no_upper_cabinet": true,
+    "flat_top_z_mm": 603.25,
+    "side_height_mm": 603.25,
+    "retained_wing_angle_deg": 30
+  }
+]

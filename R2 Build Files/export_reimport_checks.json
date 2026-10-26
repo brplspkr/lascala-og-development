@@ -1,0 +1,27 @@
+[
+  {
+    "file": "LaScala_OG_1977_R2_Cabinet.step",
+    "valid": true,
+    "solids": 18,
+    "bounds_mm": [
+      603.2500000000011,
+      622.3000000001072,
+      914.4
+    ]
+  },
+  {
+    "file": "LaScala_OG_1977_R2_With_Reference_Drivers.step",
+    "valid": true,
+    "solids": 21,
+    "bounds_mm": [
+      603.2500000000011,
+      622.3000000001072,
+      914.4
+    ]
+  },
+  {
+    "native_reopened": true,
+    "four_wing_faces_measured_deg": 30,
+    "hex_plug_removed": true
+  }
+]
